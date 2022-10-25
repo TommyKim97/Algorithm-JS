@@ -1,4 +1,4 @@
-# 숫자 비교하기
+# 두 수의 차
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120803)
 
 ## 문제 설명
