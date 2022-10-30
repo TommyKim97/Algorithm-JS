@@ -1,3 +1,6 @@
+//문제 : A부터 B까지 범위를 지정했을 때 범위 안의 모든 숫자를 모두 곱하는 함수를 만들기
+
+
 const multiplyAll = function (a, b) {
     let output = 1;
     for (let i = a; i <= b; i++) {
