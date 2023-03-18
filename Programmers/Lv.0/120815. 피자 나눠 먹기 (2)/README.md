@@ -1,4 +1,4 @@
-# 자릿수 더하기
+# 피자 나눠 먹기(2)
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120815)
 
