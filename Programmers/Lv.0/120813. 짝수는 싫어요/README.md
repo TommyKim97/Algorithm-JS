@@ -1,4 +1,4 @@
-# 자릿수 더하기
+# 짝수는 싫어요
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120813)
 
