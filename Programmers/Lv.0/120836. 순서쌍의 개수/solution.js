@@ -5,3 +5,5 @@ const solution = (n) => {
   }
   return result.length;
 };
+
+// 모든 약수의 수는 순서쌍의 개수와 같음
